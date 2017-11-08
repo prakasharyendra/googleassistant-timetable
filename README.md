@@ -1,7 +1,7 @@
 # googleassistant-timetable
 My time table schedule integrated with google assistant
 
-When a user calls Google Assistant, a request is sent to Dialogflow (earlier called Api.Ai), which proccesses the request for natural language and sends the accurate request data to Firebase functions which communicate with Firebase database and return the response line. 
+When a user calls Google Assistant, a request is sent to Dialogflow (earlier called Api.Ai), which proccesses the request for natural language and sends the accurate request data to Firebase functions which does some magic and return the response line. 
 
 This is based upon batch timetable for Galgotias University and mess timetable for hostel.
 
