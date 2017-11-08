@@ -1,0 +1,94 @@
+[
+  {
+    "id": "d7635652-a662-45d5-a86c-3cc34de9d161",
+    "data": [
+      {
+        "text": "which is the ",
+        "userDefined": false
+      },
+      {
+        "text": "last lecture",
+        "alias": "lectures",
+        "meta": "@lectures",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "on wednesday",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3a865542-d9f8-43e4-9e19-fbbfc3995d86",
+    "data": [
+      {
+        "text": "which is the ",
+        "userDefined": false
+      },
+      {
+        "text": "fourth lecture",
+        "alias": "lectures",
+        "meta": "@lectures",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tommorow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c2a4339-3ad1-4648-adf0-07733f5f187e",
+    "data": [
+      {
+        "text": "which subject is in the ",
+        "userDefined": false
+      },
+      {
+        "text": "first class",
+        "alias": "lectures",
+        "meta": "@lectures",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6662f14a-ab46-4a7f-863b-08ecd86837c9",
+    "data": [
+      {
+        "text": "which is the ",
+        "userDefined": false
+      },
+      {
+        "text": "first class",
+        "alias": "lectures",
+        "meta": "@lectures",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "id": "f00d58ba-f5e1-4331-8024-6b289080084f",
+  "name": "lecture - which",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "lecwhich",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1185eac1-baa2-4e4e-82b3-b58263859701",
+          "required": true,
+          "dataType": "@lectures",
+          "name": "lectures",
+          "value": "$lectures",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which lecture, first? second?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "dd5b8bb9-fef9-43b3-9965-e72d51ea4156",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [],
+          "defaultValue": "today",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "lecture $lectures on $date"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504722827,
+  "fallbackIntent": false,
+  "events": []
+}

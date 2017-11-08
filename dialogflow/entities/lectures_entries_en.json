@@ -1,0 +1,84 @@
+[
+  {
+    "value": "0",
+    "synonyms": [
+      "lec1",
+      "first lecture",
+      "first period",
+      "9 a.m. class",
+      "9am class",
+      "first class"
+    ]
+  },
+  {
+    "value": "1",
+    "synonyms": [
+      "lec2",
+      "second lecture",
+      "second period",
+      "10 a.m. class",
+      "10am class",
+      "second class"
+    ]
+  },
+  {
+    "value": "2",
+    "synonyms": [
+      "lec3",
+      "third lecture",
+      "third period",
+      "11 am class",
+      "third class"
+    ]
+  },
+  {
+    "value": "3",
+    "synonyms": [
+      "lec4",
+      "fourth lecture",
+      "fourth period",
+      "pre lunch class",
+      "fourth class"
+    ]
+  },
+  {
+    "value": "4",
+    "synonyms": [
+      "lec5",
+      "fifth lecture",
+      "fifth period",
+      "post lunch class",
+      "12 30 class",
+      "fifth class"
+    ]
+  },
+  {
+    "value": "5",
+    "synonyms": [
+      "lec6",
+      "sixth  lecture",
+      "sixth period",
+      "sixth class"
+    ]
+  },
+  {
+    "value": "6",
+    "synonyms": [
+      "lec7",
+      "seventh lecture",
+      "seventh period",
+      "seventh class",
+      "second last class"
+    ]
+  },
+  {
+    "value": "7",
+    "synonyms": [
+      "lec8",
+      "eight lecture",
+      "eight period",
+      "last class",
+      "last lecture"
+    ]
+  }
+]

@@ -1,0 +1,88 @@
+[
+  {
+    "id": "948f8cb7-a835-480d-9b73-1664a3ba6ae7",
+    "data": [
+      {
+        "text": "what is in the ",
+        "userDefined": false
+      },
+      {
+        "text": "lunch",
+        "alias": "foodtime",
+        "meta": "@foodtime",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "tomorrow",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504707798
+  },
+  {
+    "id": "05fe3793-415e-47e9-bb49-e21a2fbbaffe",
+    "data": [
+      {
+        "text": "what food is in the ",
+        "userDefined": false
+      },
+      {
+        "text": "evening",
+        "alias": "foodtime",
+        "meta": "@foodtime",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504707798
+  },
+  {
+    "id": "f1b13d51-16c1-4679-a539-ae227f6fad39",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "lunch",
+        "alias": "foodtime",
+        "meta": "@foodtime",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "today",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1504707798
+  }
+]

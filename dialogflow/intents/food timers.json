@@ -1,0 +1,53 @@
+{
+  "id": "cc89e4d2-b087-47b2-b454-f70834c5cf88",
+  "name": "food timers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "foodtimer",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f5cb5c48-af90-48e1-aaab-819da1360efc",
+          "required": true,
+          "dataType": "@foodtime",
+          "name": "foodtime",
+          "value": "$foodtime",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Breakfast? Lunch? Brunch? Dinner?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "61cbb0cd-0aa8-4722-a0e9-9da4d2565574",
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "prompts": [],
+          "defaultValue": "today",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "You have asked for $foodtime at $date"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1504804664,
+  "fallbackIntent": false,
+  "events": []
+}
