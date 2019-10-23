@@ -59,8 +59,8 @@ numbs = ["first","second","third","fourth","fifth","sixth","seventh"];
 
 
 food = [[],[],[],[],[],[],[]];
-food[0] = [["Idly","Sambhar","Tea"],["Chhole Bhature","Jeera Rice"],["Macroni","Sauce","Tea"],["Kofta","Arhar dal","Rice","Roti"]];
-food[1] = [["Aloo Paratha","Tea","Milk","Seasonal Fruit"],["Mix Veg","Dal Punjabi","Rice","Chapati"],["Upma","Tea"],["Mutter Paneer","Mix Dal","Rice","Roti"]];
+food[0] = [["Pav","Bhaji","Tea"],["Aloo Matar","Urad Chana"],["Bhelpuri","Sauce","Tea"],["Veg Kofta","Black Chana","Rice","Roti"]];
+food[1] = [["Idli","Sambhar","Milk","Seasonal Fruit"],["Dum Aloo Punjabi","Rajma Masala","Rice","Chapati"],["Veg Noodles","Tea"],["Aloo Cabbage Matar","Black Masoor","Rice","Roti"]];
 food[2] = [["Poori","Channa","Tea"],["Mix Vegetable","Dal Tadka","Rice","Chapati"],["Fried Rice","Tea"],["Aloo Soya Badi","Arhar dal tadka","Rice","Chapati","Fruit Salad"]];
 food[3] = [["Matar Kulcha","Tea","Milk","Seasonal Fruit"],["Biryani","Raita","Mirchi Salan"],["Veg Pakora","Tea","Green Chutney"],["Aloo Matar","Chole","Rice","Roti"]];
 food[4] = [["Wada","Sambhar","Tea"],["Paneer Shahi","Dal Punjabi","Rice","Roti","Payassam"],["Poha","Tea"],["Dhania Aloo","Rajma","Rice","Roti"]];
